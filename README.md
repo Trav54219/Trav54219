@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... NBA 
 - 📫 How to reach me: ... [Linkedin]/(https://www.linkedin.com/in/travis-heurtelou/) 
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... I ran track 
