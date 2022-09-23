@@ -9,6 +9,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... NBA 
-- 📫 How to reach me: ... [Linkedin]/(https://www.linkedin.com/in/travis-heurtelou/) 
+- 📫 How to reach me: ... [Linkedin](https://www.linkedin.com/in/travis-heurtelou/) 
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I ran track 
