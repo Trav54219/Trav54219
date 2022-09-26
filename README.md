@@ -7,10 +7,6 @@
 
 - 🌱 I’m currently learning **iOS Development**
 
-- 👯 I’m looking to collaborate on **iOS**
-
-- 🤝 I’m looking for help with **Frontend**
-
 - 👨‍💻 All of my projects are available at [https://github.com/Trav54219](https://github.com/Trav54219)
 
 - 💬 Ask me about **NBA Basketball**
