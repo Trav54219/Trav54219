@@ -1,7 +1,7 @@
 <h1 align="center">Hi there👋, I'm Travis</h1>
 <h3 align="center">I'm a passionate developer from the United States</h3>
 
-- 🔭 I’m currently working on **Bettering myself everyday**
+- 🔭 I’m currently working on **bettering myself everyday**
 
 - 🌱 I’m currently learning **iOS Development**
 
