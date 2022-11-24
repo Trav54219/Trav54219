@@ -1,11 +1,9 @@
 <h1 align="center">Hi there👋, I'm Travis</h1>
 <h3 align="center">I'm a passionate developer from the United States</h3>
 
-- 🔭 I’m currently working on **Leetcode**
+- 🔭 I’m currently working on **Bettering myself everyday**
 
 - 🌱 I’m currently learning **iOS Development**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Trav54219](https://github.com/Trav54219)
 
 - 📫 How to reach me **HeurtelouTravis@gmail.com**
 
