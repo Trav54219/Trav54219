@@ -9,8 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Trav54219](https://github.com/Trav54219)
 
-- 💬 Ask me about **NBA Basketball**
-
 - 📫 How to reach me **HeurtelouTravis@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
