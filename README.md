@@ -1,8 +1,6 @@
 <h1 align="center">Hi there👋, I'm Travis</h1>
 <h3 align="center">I'm a passionate developer from the United States</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trav54219" alt="trav54219" /></a> </p>
-
 - 🔭 I’m currently working on **Leetcode**
 
 - 🌱 I’m currently learning **iOS Development**
