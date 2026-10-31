@@ -2,8 +2,8 @@
 
 I build outbound and CRM systems that check their own work: list builds, signal plays, enrichment, sending infrastructure, and the guards that stop a bad send. I was a software engineer at Fidelity before I started an outbound agency and ran it end to end.
 
-**Portfolio with case studies:** https://trav54219.github.io/gtm-engineering-portfolio/
-**Free tools, usable in the browser:** https://trav54219.github.io/gtm-engineering-portfolio/tools
+**Portfolio with case studies:** https://www.breezygrowthco.com/travis
+**Free tools, usable in the browser:** https://www.breezygrowthco.com/travis#tools
 
 ## Start here
 
