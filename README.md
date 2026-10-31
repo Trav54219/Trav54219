@@ -8,6 +8,7 @@ I build outbound and CRM systems that check their own work: list builds, signal 
 
 | Repo | What it shows |
 |---|---|
+| [domain-health](https://github.com/Trav54219/domain-health) | Free tool: paste your sending domains and get MX, SPF, DKIM, DMARC and domain age for all of them, with the exact record to add when one fails. [Use it in the browser](https://trav54219.github.io/domain-health/), or run it daily with a Slack alert. |
 | [gtm-engineering-portfolio](https://github.com/Trav54219/gtm-engineering-portfolio) | 8 projects, send guards, incident write-ups and a campaign scoreboard that keeps the bad numbers too. |
 | [signal-to-crm](https://github.com/Trav54219/signal-to-crm) | Runs every morning: new SDR/BDR job posts become scored, routed HubSpot accounts with a contact title and a drafted opener. First run: 18 accounts from 20 posts. |
 | [hubspot-crm-cleanup](https://github.com/Trav54219/hubspot-crm-cleanup) | A messy HubSpot CRM seeded with an answer key, then deduplicated, attached, scored and routed: 48 of 48 merges right, 0 wrong. |
