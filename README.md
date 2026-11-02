@@ -1,6 +1,6 @@
 # Travis Heurtelou: GTM engineer
 
-I build outbound and CRM systems that check their own work: list builds, signal plays, enrichment, sending infrastructure, and the guards that stop a bad send. I was a software engineer at Fidelity before I started an outbound agency and ran it end to end.
+I build outbound and CRM systems that check their own work: list builds, signal plays, enrichment, sending infrastructure, and the guards that stop a bad send. I was a software engineer at Fidelity, then the GTM engineer at Breezy Growth, an outbound agency, building and running outbound for B2B clients end to end.
 
 **Portfolio with case studies:** https://www.breezygrowthco.com/travis
 **Free tools, usable in the browser:** https://www.breezygrowthco.com/travis#tools
